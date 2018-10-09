@@ -1,0 +1,69 @@
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating /usr/java/jdk1.8.0_181/jre/lib/rt.jar: class java.io.Serializable now provided by /home/bazaz/.sbt/0.13/java9-rt-ext-oracle_corporation_10_0_2/rt.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set(/usr/java/jdk1.8.0_181/jre/lib/rt.jar)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set(/home/bazaz/Documents/battleship/src/main/scala/example/ArtificialPlayer.scala, /home/bazaz/Documents/battleship/src/main/scala/example/Game.scala, /home/bazaz/Documents/battleship/src/main/scala/example/Player.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/home/bazaz/Documents/battleship/src/main/scala/example/ArtificialPlayer.scala, /home/bazaz/Documents/battleship/src/main/scala/example/Game.scala, /home/bazaz/Documents/battleship/src/main/scala/example/Player.scala)[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 3 Scala sources to /home/bazaz/Documents/battleship/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.1.7:compile for Scala 2.12.6[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.1.7:compile for Scala 2.12.6[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 747ac8b8 for Scala compiler version 2.12.6[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/bazaz/.sbt/boot/scala-2.12.6/lib/scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/bazaz/Documents/battleship/target/scala-2.12/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 7.600751142 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from example.ArtificialPlayer...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(example.ArtificialPlayer)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(example.ArtificialPlayer)[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of example.Game. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of example.Play. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(example.ArtificialPlayer,ModifiedNames(changes = UsedName(notifyAll,[Default]), UsedName(finalize,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]), UsedName(hashCode,[Default]), UsedName(notify,[Default]))) invalidates 1 classes due to The example.ArtificialPlayer has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(notifyAll,[Default]), UsedName(finalize,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]), UsedName(hashCode,[Default]), UsedName(notify,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(example.ArtificialPlayer)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from example.Game...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(example.Game)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(example.Game)[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of example.ArtificialPlayer. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of example.Play. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(example.Game,ModifiedNames(changes = UsedName(notifyAll,[Default]), UsedName(finalize,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]), UsedName(hashCode,[Default]), UsedName(notify,[Default]))) invalidates 1 classes due to The example.Game has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(notifyAll,[Default]), UsedName(finalize,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]), UsedName(hashCode,[Default]), UsedName(notify,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(example.Game)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from example.Player...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(example.Player)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(example.Player)[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of example.Game. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of example.ArtificialPlayer. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of example.Play. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of example.Grid. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(example.Player,ModifiedNames(changes = UsedName(notifyAll,[Default]), UsedName(finalize,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]), UsedName(hashCode,[Default]), UsedName(notify,[Default]))) invalidates 1 classes due to The example.Player has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(notifyAll,[Default]), UsedName(finalize,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]), UsedName(hashCode,[Default]), UsedName(notify,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(example.Player)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set()[0m

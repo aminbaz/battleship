@@ -1,0 +1,63 @@
+compike
+compile
+exit
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+~compile
+compile
+run
+exit
+run
+compile
+run
+compile
+run
+rune
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+stop
+exit
+kill
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /tmp/sbt-structure.xml; session clear-all
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /tmp/sbt-structure1.xml; session clear-all
+all {file:/home/bazaz/Documents/battleship/}root/products {file:/home/bazaz/Documents/battleship/}root/test:products
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+all {file:/home/bazaz/Documents/battleship/}root/products {file:/home/bazaz/Documents/battleship/}root/test:products
+run
+all {file:/home/bazaz/Documents/battleship/}root/products {file:/home/bazaz/Documents/battleship/}root/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /tmp/sbt-structure.xml; session clear-all
+all {file:/home/bazaz/Documents/battleship/}root/products {file:/home/bazaz/Documents/battleship/}root/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /tmp/sbt-structure.xml; session clear-all
+all {file:/home/bazaz/Documents/battleship/}root/products {file:/home/bazaz/Documents/battleship/}root/test:products
+run

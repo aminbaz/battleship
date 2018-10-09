@@ -1,0 +1,24 @@
+[0m[[0m[0mdebug[0m] [0m[0mThe example.Ship$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getClass,[Default]), UsedName(notify,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(clone,[Default]), UsedName(finalize,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) example.Ship$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) example.Ship$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of example.PlayerTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of example.ShipTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe example.Grid$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getClass,[Default]), UsedName(notify,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(clone,[Default]), UsedName(finalize,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) example.Grid$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) example.Grid$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of example.GridTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of example.PlayerTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe example.Ship has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getClass,[Default]), UsedName(notify,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(clone,[Default]), UsedName(finalize,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) example.Ship: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) example.Ship.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of example.GridTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m

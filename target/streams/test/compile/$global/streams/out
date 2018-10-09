@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/bazaz/Documents/battleship/src/test/scala/example/GridTest.scala:5:24: not found: value ship[0m
+[0m[[0m[31merror[0m] [0m[0m  val grid = Grid(List(ship))[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

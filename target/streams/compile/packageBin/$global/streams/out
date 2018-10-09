@@ -1,0 +1,31 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/bazaz/Documents/battleship/target/scala-2.12/battleship_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Play$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bazaz/Documents/battleship/target/scala-2.12/classes/example/Play$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Game$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bazaz/Documents/battleship/target/scala-2.12/classes/example/Game$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Player$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bazaz/Documents/battleship/target/scala-2.12/classes/example/Player$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Player.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bazaz/Documents/battleship/target/scala-2.12/classes/example/Player.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Play$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bazaz/Documents/battleship/target/scala-2.12/classes/example/Play$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Play.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bazaz/Documents/battleship/target/scala-2.12/classes/example/Play.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Grid.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bazaz/Documents/battleship/target/scala-2.12/classes/example/Grid.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Game.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bazaz/Documents/battleship/target/scala-2.12/classes/example/Game.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Ship$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bazaz/Documents/battleship/target/scala-2.12/classes/example/Ship$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Grid$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bazaz/Documents/battleship/target/scala-2.12/classes/example/Grid$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Ship.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bazaz/Documents/battleship/target/scala-2.12/classes/example/Ship.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bazaz/Documents/battleship/target/scala-2.12/classes/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/ArtificialPlayer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bazaz/Documents/battleship/target/scala-2.12/classes/example/ArtificialPlayer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/ArtificialPlayer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bazaz/Documents/battleship/target/scala-2.12/classes/example/ArtificialPlayer$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

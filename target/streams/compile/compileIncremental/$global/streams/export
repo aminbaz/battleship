@@ -1,0 +1,1 @@
+scalac -classpath /home/bazaz/Documents/battleship/target/scala-2.12/classes -bootclasspath /home/bazaz/.sbt/boot/scala-2.12.6/lib/scala-library.jar /home/bazaz/Documents/battleship/src/main/scala/example/Player.scala /home/bazaz/Documents/battleship/src/main/scala/example/Game.scala /home/bazaz/Documents/battleship/src/main/scala/example/ArtificialPlayer.scala
